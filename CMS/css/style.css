@@ -1,0 +1,21 @@
+.navbar{
+    border-radius:0;
+}
+
+footer{
+margin-top:20px;
+text-align:center;
+padding-top:20px;
+background-color:#1f87c2;
+color:#fff;
+padding-bottom:20px;
+height:60px;
+}
+.actions{
+float:right;
+margin-top:20px;
+}
+
+.tablesorter th{
+    cursor:pointer;
+}
